@@ -9,7 +9,6 @@
   `git status`
   `git add cong-nguyen/*`
   `git commit -m "Completes Git assignment"`
-  `git push -u random_name_generator_jkjk`
 
 - Why do developers work in branches?
 
