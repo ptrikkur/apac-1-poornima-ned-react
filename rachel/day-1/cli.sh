@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 touch cli-output.txt
 echo $'Describe how PATH works?\nPATH provides a list of directories that the CLI should refer to retrieve the binaries of commands used' > cli-output.txt
 mkdir -p archive
