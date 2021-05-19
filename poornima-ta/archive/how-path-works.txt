@@ -1,0 +1,2 @@
+Describe how PATH works?
+Path Lists directories of all binaries
