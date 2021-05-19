@@ -1,2 +1,0 @@
-What command shows us previously run commands?
-history
