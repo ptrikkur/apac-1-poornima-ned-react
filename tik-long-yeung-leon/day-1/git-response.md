@@ -6,11 +6,7 @@
 
 - Describe the lifecycle of a file in a Git repository, include the commands that change the state of the file.
 
-  -Working directory: git add -> Staging
-  -Staging Area: git commit -> Repo
-  -Local repo: git push -> Remote repo
-  -Remote repo: git pull -> Local repo
-  -Staging Area: git reset -> Working directory
+  [Working directory: git add -> Staging]->[Staging Area: git commit -> Local repo]->[Local repo: git push -> Remote repo]->[Remote repo: git pull -> Local repo]->[Staging Area: git reset -> Working directory]
 
 - Why do developers work in branches?
 
