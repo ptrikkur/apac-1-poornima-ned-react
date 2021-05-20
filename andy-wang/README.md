@@ -15,4 +15,3 @@ After cloning this repository, create a directory with your name, using [kebab-c
 - Is having a single repository for all students' work problematic?
 
   No. All of your work will occur in your named folder, so you should not have conflicts with your classmates' work. Additionally, this will get you in the habit of `git pull` / `git push` as a normal part of everyday work.
-

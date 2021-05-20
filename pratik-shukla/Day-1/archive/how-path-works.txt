@@ -1,0 +1,2 @@
+Describe how PATH works?
+It is the location/s in which the binaries for commands are stored and used to execute commands
